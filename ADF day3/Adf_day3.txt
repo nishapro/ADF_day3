@@ -1,0 +1,346 @@
+2021-09-08 16:38:04 INFO-file reading and splitting into words
+2021-09-08 16:38:04 INFO-['My', 'dad', 'is', 'a', 'role', 'model.', 'My', 'mom', 'is', 'a', 'very', 'good', 'women.', 'Malayalam', 'is', 'a', 'very', 'good', 'place', 'to', 'visit.']
+2021-09-08 16:38:04 INFO-file written in the output file successfully
+2021-09-08 16:38:04 INFO-most repeated word in the given input file
+2021-09-08 16:38:04 ERROR-exceptions occurred for palindrome: 
+2021-09-08 16:38:04 INFO-unique list
+2021-09-08 16:38:04 INFO-counter for index and word as values
+2021-09-08 16:38:04 ERROR-exceptions occurred for spliting vowels: 
+2021-09-08 16:38:04 INFO-capitalizing every 3rd letter of a word
+2021-09-08 16:38:04 INFO-['My', 'daD', 'is', 'a', 'roLe', 'moDel.', 'My', 'moM', 'is', 'a', 'veRy', 'goOd', 'woMen.', 'MaLayalam', 'is', 'a', 'veRy', 'goOd', 'plAce', 'to', 'viSit.']
+2021-09-08 16:38:04 INFO-capitalizing every fifth word
+2021-09-08 16:38:04 INFO-['My', 'daD', 'is', 'a', 'ROLE', 'moDel.', 'My', 'moM', 'is', 'A', 'veRy', 'goOd', 'woMen.', 'MaLayalam', 'IS', 'a', 'veRy', 'goOd', 'plAce', 'TO', 'viSit.']
+2021-09-08 16:38:04 INFO-replacing the new line character with semi colon
+2021-09-08 16:38:04 INFO-unique file creation
+2021-09-08 16:38:04 INFO-file written in the output file successfully
+2021-09-08 16:40:15 INFO-file reading and splitting into words
+2021-09-08 16:40:15 INFO-['My', 'dad', 'is', 'a', 'role', 'model.', 'My', 'mom', 'is', 'a', 'very', 'good', 'women.', 'Malayalam', 'is', 'a', 'very', 'good', 'place', 'to', 'visit.']
+2021-09-08 16:40:15 INFO-file written in the output file successfully
+2021-09-08 16:40:15 INFO-most repeated word in the given input file
+2021-09-08 16:40:15 ERROR-exceptions occurred for palindrome: 
+2021-09-08 16:40:15 INFO-unique list
+2021-09-08 16:40:15 INFO-counter for index and word as values
+2021-09-08 16:40:15 ERROR-exceptions occurred for spliting vowels: 
+2021-09-08 16:40:15 INFO-capitalizing every 3rd letter of a word
+2021-09-08 16:40:15 INFO-['My', 'daD', 'is', 'a', 'roLe', 'moDel.', 'My', 'moM', 'is', 'a', 'veRy', 'goOd', 'woMen.', 'MaLayalam', 'is', 'a', 'veRy', 'goOd', 'plAce', 'to', 'viSit.']
+2021-09-08 16:40:15 INFO-capitalizing every fifth word
+2021-09-08 16:40:15 INFO-['My', 'daD', 'is', 'a', 'ROLE', 'moDel.', 'My', 'moM', 'is', 'A', 'veRy', 'goOd', 'woMen.', 'MaLayalam', 'IS', 'a', 'veRy', 'goOd', 'plAce', 'TO', 'viSit.']
+2021-09-08 16:40:15 INFO-replacing the new line character with semi colon
+2021-09-08 16:40:15 INFO-unique file creation
+2021-09-08 16:40:15 INFO-file written in the output file successfully
+2021-09-08 16:43:24 INFO-file reading and splitting into words
+2021-09-08 16:43:24 INFO-['My', 'dad', 'is', 'a', 'role', 'model.', 'My', 'mom', 'is', 'a', 'very', 'good', 'women.', 'Malayalam', 'is', 'a', 'very', 'good', 'place', 'to', 'visit.']
+2021-09-08 16:43:24 INFO-file written in the output file successfully
+2021-09-08 16:43:24 INFO-most repeated word in the given input file
+2021-09-08 16:43:24 ERROR-exceptions occurred for palindrome: 
+2021-09-08 16:43:24 INFO-unique list
+2021-09-08 16:43:24 INFO-counter for index and word as values
+2021-09-08 16:43:24 ERROR-exceptions occurred for spliting vowels: 
+2021-09-08 16:43:24 INFO-capitalizing every 3rd letter of a word
+2021-09-08 16:43:24 INFO-['My', 'daD', 'is', 'a', 'roLe', 'moDel.', 'My', 'moM', 'is', 'a', 'veRy', 'goOd', 'woMen.', 'MaLayalam', 'is', 'a', 'veRy', 'goOd', 'plAce', 'to', 'viSit.']
+2021-09-08 16:43:24 INFO-capitalizing every fifth word
+2021-09-08 16:43:24 INFO-['My', 'daD', 'is', 'a', 'ROLE', 'moDel.', 'My', 'moM', 'is', 'A', 'veRy', 'goOd', 'woMen.', 'MaLayalam', 'IS', 'a', 'veRy', 'goOd', 'plAce', 'TO', 'viSit.']
+2021-09-08 16:43:24 INFO-replacing the new line character with semi colon
+2021-09-08 16:43:24 INFO-unique file creation
+2021-09-08 16:43:24 INFO-file written in the output file successfully
+2021-09-08 16:55:06 INFO-file reading and splitting into words
+2021-09-08 16:55:06 INFO-['My', 'dad', 'is', 'a', 'role', 'model.', 'My', 'mom', 'is', 'a', 'very', 'good', 'women.', 'Malayalam', 'is', 'a', 'very', 'good', 'place', 'to', 'visit.']
+2021-09-08 16:55:06 INFO-file written in the output file successfully
+2021-09-08 16:55:06 INFO-most repeated word in the given input file
+2021-09-08 16:55:06 ERROR-exceptions occurred for palindrome: 
+2021-09-08 16:55:06 INFO-unique list
+2021-09-08 16:55:06 INFO-counter for index and word as values
+2021-09-08 16:55:06 ERROR-exceptions occurred for spliting vowels: 
+2021-09-08 16:55:06 INFO-capitalizing every 3rd letter of a word
+2021-09-08 16:55:06 INFO-['My', 'daD', 'is', 'a', 'roLe', 'moDel.', 'My', 'moM', 'is', 'a', 'veRy', 'goOd', 'woMen.', 'MaLayalam', 'is', 'a', 'veRy', 'goOd', 'plAce', 'to', 'viSit.']
+2021-09-08 16:55:06 INFO-capitalizing every fifth word
+2021-09-08 16:55:06 INFO-['My', 'daD', 'is', 'a', 'ROLE', 'moDel.', 'My', 'moM', 'is', 'A', 'veRy', 'goOd', 'woMen.', 'MaLayalam', 'IS', 'a', 'veRy', 'goOd', 'plAce', 'TO', 'viSit.']
+2021-09-08 16:55:06 INFO-replacing the new line character with semi colon
+2021-09-08 16:55:06 INFO-unique file creation
+2021-09-08 16:55:06 ERROR-exceptions occurred for unique file name: 
+2021-09-08 16:56:26 INFO-file reading and splitting into words
+2021-09-08 16:56:26 INFO-['My', 'dad', 'is', 'a', 'role', 'model.', 'My', 'mom', 'is', 'a', 'very', 'good', 'women.', 'Malayalam', 'is', 'a', 'very', 'good', 'place', 'to', 'visit.']
+2021-09-08 16:56:26 INFO-file written in the output file successfully
+2021-09-08 16:56:26 INFO-most repeated word in the given input file
+2021-09-08 16:56:26 ERROR-exceptions occurred for palindrome: 
+2021-09-08 16:56:26 INFO-unique list
+2021-09-08 16:56:26 INFO-counter for index and word as values
+2021-09-08 16:56:26 ERROR-exceptions occurred for spliting vowels: 
+2021-09-08 16:56:26 INFO-capitalizing every 3rd letter of a word
+2021-09-08 16:56:26 INFO-['My', 'daD', 'is', 'a', 'roLe', 'moDel.', 'My', 'moM', 'is', 'a', 'veRy', 'goOd', 'woMen.', 'MaLayalam', 'is', 'a', 'veRy', 'goOd', 'plAce', 'to', 'viSit.']
+2021-09-08 16:56:26 INFO-capitalizing every fifth word
+2021-09-08 16:56:26 INFO-['My', 'daD', 'is', 'a', 'ROLE', 'moDel.', 'My', 'moM', 'is', 'A', 'veRy', 'goOd', 'woMen.', 'MaLayalam', 'IS', 'a', 'veRy', 'goOd', 'plAce', 'TO', 'viSit.']
+2021-09-08 16:56:26 INFO-replacing the new line character with semi colon
+2021-09-08 16:56:26 INFO-unique file creation
+2021-09-08 16:56:26 ERROR-exceptions occurred for unique file name: 
+2021-09-08 16:58:20 INFO-file reading and splitting into words
+2021-09-08 16:58:20 INFO-['My', 'dad', 'is', 'a', 'role', 'model.', 'My', 'mom', 'is', 'a', 'very', 'good', 'women.', 'Malayalam', 'is', 'a', 'very', 'good', 'place', 'to', 'visit.']
+2021-09-08 16:58:20 INFO-file written in the output file successfully
+2021-09-08 16:58:20 INFO-most repeated word in the given input file
+2021-09-08 16:58:20 ERROR-exceptions occurred for palindrome: 
+2021-09-08 16:58:20 INFO-unique list
+2021-09-08 16:58:20 INFO-counter for index and word as values
+2021-09-08 16:58:20 ERROR-exceptions occurred for spliting vowels: 
+2021-09-08 16:58:20 INFO-capitalizing every 3rd letter of a word
+2021-09-08 16:58:20 INFO-['My', 'daD', 'is', 'a', 'roLe', 'moDel.', 'My', 'moM', 'is', 'a', 'veRy', 'goOd', 'woMen.', 'MaLayalam', 'is', 'a', 'veRy', 'goOd', 'plAce', 'to', 'viSit.']
+2021-09-08 16:58:20 INFO-capitalizing every fifth word
+2021-09-08 16:58:20 INFO-['My', 'daD', 'is', 'a', 'ROLE', 'moDel.', 'My', 'moM', 'is', 'A', 'veRy', 'goOd', 'woMen.', 'MaLayalam', 'IS', 'a', 'veRy', 'goOd', 'plAce', 'TO', 'viSit.']
+2021-09-08 16:58:20 INFO-replacing the new line character with semi colon
+2021-09-08 16:58:20 INFO-unique file creation
+2021-09-08 16:58:20 ERROR-exceptions occurred for unique file name: 
+2021-09-08 17:00:45 INFO-file reading and splitting into words
+2021-09-08 17:00:45 INFO-['My', 'dad', 'is', 'a', 'role', 'model.', 'My', 'mom', 'is', 'a', 'very', 'good', 'women.', 'Malayalam', 'is', 'a', 'very', 'good', 'place', 'to', 'visit.']
+2021-09-08 17:00:45 INFO-file written in the output file successfully
+2021-09-08 17:00:45 INFO-most repeated word in the given input file
+2021-09-08 17:00:45 ERROR-exceptions occurred for palindrome: 
+2021-09-08 17:00:45 INFO-unique list
+2021-09-08 17:00:45 INFO-counter for index and word as values
+2021-09-08 17:00:45 ERROR-exceptions occurred for spliting vowels: 
+2021-09-08 17:00:45 INFO-capitalizing every 3rd letter of a word
+2021-09-08 17:00:45 INFO-['My', 'daD', 'is', 'a', 'roLe', 'moDel.', 'My', 'moM', 'is', 'a', 'veRy', 'goOd', 'woMen.', 'MaLayalam', 'is', 'a', 'veRy', 'goOd', 'plAce', 'to', 'viSit.']
+2021-09-08 17:00:45 INFO-capitalizing every fifth word
+2021-09-08 17:00:45 INFO-['My', 'daD', 'is', 'a', 'ROLE', 'moDel.', 'My', 'moM', 'is', 'A', 'veRy', 'goOd', 'woMen.', 'MaLayalam', 'IS', 'a', 'veRy', 'goOd', 'plAce', 'TO', 'viSit.']
+2021-09-08 17:00:45 INFO-replacing the new line character with semi colon
+2021-09-08 17:00:45 INFO-unique file creation
+2021-09-08 17:00:45 INFO-file written in the output file successfully
+2021-09-08 17:01:51 INFO-file reading and splitting into words
+2021-09-08 17:01:51 INFO-['My', 'dad', 'is', 'a', 'role', 'model.', 'My', 'mom', 'is', 'a', 'very', 'good', 'women.', 'Malayalam', 'is', 'a', 'very', 'good', 'place', 'to', 'visit.']
+2021-09-08 17:01:51 INFO-file written in the output file successfully
+2021-09-08 17:01:51 INFO-most repeated word in the given input file
+2021-09-08 17:01:51 ERROR-exceptions occurred for palindrome: 
+2021-09-08 17:01:51 INFO-unique list
+2021-09-08 17:01:51 INFO-counter for index and word as values
+2021-09-08 17:01:51 ERROR-exceptions occurred for spliting vowels: 
+2021-09-08 17:01:51 INFO-capitalizing every 3rd letter of a word
+2021-09-08 17:01:51 INFO-['My', 'daD', 'is', 'a', 'roLe', 'moDel.', 'My', 'moM', 'is', 'a', 'veRy', 'goOd', 'woMen.', 'MaLayalam', 'is', 'a', 'veRy', 'goOd', 'plAce', 'to', 'viSit.']
+2021-09-08 17:01:51 INFO-capitalizing every fifth word
+2021-09-08 17:01:51 INFO-['My', 'daD', 'is', 'a', 'ROLE', 'moDel.', 'My', 'moM', 'is', 'A', 'veRy', 'goOd', 'woMen.', 'MaLayalam', 'IS', 'a', 'veRy', 'goOd', 'plAce', 'TO', 'viSit.']
+2021-09-08 17:01:51 INFO-replacing the new line character with semi colon
+2021-09-08 17:01:51 INFO-unique file creation
+2021-09-08 17:01:51 INFO-file written in the output file successfully
+2021-09-08 17:02:41 INFO-file reading and splitting into words
+2021-09-08 17:02:41 INFO-['My', 'dad', 'is', 'a', 'role', 'model.', 'My', 'mom', 'is', 'a', 'very', 'good', 'women.', 'Malayalam', 'is', 'a', 'very', 'good', 'place', 'to', 'visit.']
+2021-09-08 17:02:41 INFO-file written in the output file successfully
+2021-09-08 17:02:41 INFO-most repeated word in the given input file
+2021-09-08 17:02:41 ERROR-exceptions occurred for palindrome: 
+2021-09-08 17:02:41 INFO-unique list
+2021-09-08 17:02:41 INFO-counter for index and word as values
+2021-09-08 17:02:41 ERROR-exceptions occurred for spliting vowels: 
+2021-09-08 17:02:41 INFO-capitalizing every 3rd letter of a word
+2021-09-08 17:02:41 INFO-['My', 'daD', 'is', 'a', 'roLe', 'moDel.', 'My', 'moM', 'is', 'a', 'veRy', 'goOd', 'woMen.', 'MaLayalam', 'is', 'a', 'veRy', 'goOd', 'plAce', 'to', 'viSit.']
+2021-09-08 17:02:41 INFO-capitalizing every fifth word
+2021-09-08 17:02:41 INFO-['My', 'daD', 'is', 'a', 'ROLE', 'moDel.', 'My', 'moM', 'is', 'A', 'veRy', 'goOd', 'woMen.', 'MaLayalam', 'IS', 'a', 'veRy', 'goOd', 'plAce', 'TO', 'viSit.']
+2021-09-08 17:02:41 INFO-replacing the new line character with semi colon
+2021-09-08 17:02:41 INFO-unique file creation
+2021-09-08 17:02:41 INFO-file written in the output file successfully
+2021-09-08 17:07:20 INFO-file reading and splitting into words
+2021-09-08 17:07:20 INFO-['My', 'dad', 'is', 'a', 'role', 'model.', 'My', 'mom', 'is', 'a', 'very', 'good', 'women.', 'Malayalam', 'is', 'a', 'very', 'good', 'place', 'to', 'visit.']
+2021-09-08 17:07:20 INFO-file written in the output file successfully
+2021-09-08 17:07:20 INFO-most repeated word in the given input file
+2021-09-08 17:07:20 ERROR-exceptions occurred for palindrome: 
+2021-09-08 17:07:20 INFO-unique list
+2021-09-08 17:07:20 INFO-counter for index and word as values
+2021-09-08 17:07:20 ERROR-exceptions occurred for spliting vowels: 
+2021-09-08 17:07:20 INFO-capitalizing every 3rd letter of a word
+2021-09-08 17:07:20 INFO-['My', 'daD', 'is', 'a', 'roLe', 'moDel.', 'My', 'moM', 'is', 'a', 'veRy', 'goOd', 'woMen.', 'MaLayalam', 'is', 'a', 'veRy', 'goOd', 'plAce', 'to', 'viSit.']
+2021-09-08 17:07:20 INFO-capitalizing every fifth word
+2021-09-08 17:07:20 INFO-['My', 'daD', 'is', 'a', 'ROLE', 'moDel.', 'My', 'moM', 'is', 'A', 'veRy', 'goOd', 'woMen.', 'MaLayalam', 'IS', 'a', 'veRy', 'goOd', 'plAce', 'TO', 'viSit.']
+2021-09-08 17:07:20 INFO-replacing the new line character with semi colon
+2021-09-08 17:07:20 INFO-unique file creation
+2021-09-08 17:07:20 INFO-file written in the output file successfully
+2021-09-08 17:12:06 INFO-file written in the output file successfully
+2021-09-08 17:12:06 INFO-most repeated word in the given input file
+2021-09-08 17:12:06 ERROR-exceptions occurred for most repeated: 
+2021-09-08 17:12:06 INFO-unique list
+2021-09-08 17:12:06 INFO-counter for index and word as values
+2021-09-08 17:12:06 INFO-splitting word if vowels occured
+2021-09-08 17:12:06 INFO-vowels
+2021-09-08 17:12:06 INFO-capitalizing every 3rd letter of a word
+2021-09-08 17:12:06 INFO-[]
+2021-09-08 17:12:06 INFO-capitalizing every fifth word
+2021-09-08 17:12:06 INFO-[]
+2021-09-08 17:12:06 INFO-replacing the new line character with semi colon
+2021-09-08 17:12:06 INFO-unique file creation
+2021-09-08 17:12:06 INFO-file written in the output file successfully
+2021-09-08 17:14:47 INFO-file written in the output file successfully
+2021-09-08 17:14:47 INFO-most repeated word in the given input file
+2021-09-08 17:14:47 ERROR-exceptions occurred for most repeated: 
+2021-09-08 17:14:47 INFO-unique list
+2021-09-08 17:14:47 INFO-counter for index and word as values
+2021-09-08 17:14:47 INFO-splitting word if vowels occured
+2021-09-08 17:14:47 INFO-vowels
+2021-09-08 17:14:47 INFO-capitalizing every 3rd letter of a word
+2021-09-08 17:14:47 INFO-[]
+2021-09-08 17:14:47 INFO-capitalizing every fifth word
+2021-09-08 17:14:47 INFO-[]
+2021-09-08 17:14:47 INFO-replacing the new line character with semi colon
+2021-09-08 17:14:47 INFO-unique file creation
+2021-09-08 17:14:47 INFO-file written in the output file successfully
+2021-09-08 17:15:00 INFO-file written in the output file successfully
+2021-09-08 17:15:00 INFO-most repeated word in the given input file
+2021-09-08 17:15:00 ERROR-exceptions occurred for most repeated: 
+2021-09-08 17:15:00 INFO-unique list
+2021-09-08 17:15:00 INFO-counter for index and word as values
+2021-09-08 17:15:00 INFO-splitting word if vowels occured
+2021-09-08 17:15:00 INFO-vowels
+2021-09-08 17:15:00 INFO-capitalizing every 3rd letter of a word
+2021-09-08 17:15:00 INFO-[]
+2021-09-08 17:15:00 INFO-capitalizing every fifth word
+2021-09-08 17:15:00 INFO-[]
+2021-09-08 17:15:00 INFO-replacing the new line character with semi colon
+2021-09-08 17:15:00 INFO-unique file creation
+2021-09-08 17:15:00 INFO-file written in the output file successfully
+2021-09-08 17:15:05 INFO-file written in the output file successfully
+2021-09-08 17:15:05 INFO-most repeated word in the given input file
+2021-09-08 17:15:05 ERROR-exceptions occurred for most repeated: 
+2021-09-08 17:15:05 INFO-unique list
+2021-09-08 17:15:05 INFO-counter for index and word as values
+2021-09-08 17:15:05 INFO-splitting word if vowels occured
+2021-09-08 17:15:05 INFO-vowels
+2021-09-08 17:15:05 INFO-capitalizing every 3rd letter of a word
+2021-09-08 17:15:05 INFO-[]
+2021-09-08 17:15:05 INFO-capitalizing every fifth word
+2021-09-08 17:15:05 INFO-[]
+2021-09-08 17:15:05 INFO-replacing the new line character with semi colon
+2021-09-08 17:15:05 INFO-unique file creation
+2021-09-08 17:15:05 INFO-file written in the output file successfully
+2021-09-08 17:16:04 INFO-file written in the output file successfully
+2021-09-08 17:16:04 INFO-most repeated word in the given input file
+2021-09-08 17:16:04 ERROR-exceptions occurred for most repeated: 
+2021-09-08 17:16:04 INFO-unique list
+2021-09-08 17:16:04 INFO-counter for index and word as values
+2021-09-08 17:16:04 INFO-splitting word if vowels occured
+2021-09-08 17:16:04 INFO-vowels
+2021-09-08 17:16:04 INFO-capitalizing every 3rd letter of a word
+2021-09-08 17:16:04 INFO-[]
+2021-09-08 17:16:04 INFO-capitalizing every fifth word
+2021-09-08 17:16:04 INFO-[]
+2021-09-08 17:16:04 INFO-replacing the new line character with semi colon
+2021-09-08 17:16:04 INFO-unique file creation
+2021-09-08 17:16:04 INFO-file written in the output file successfully
+2021-09-08 17:16:41 INFO-file written in the output file successfully
+2021-09-08 17:16:41 INFO-most repeated word in the given input file
+2021-09-08 17:16:41 ERROR-exceptions occurred for most repeated: 
+2021-09-08 17:16:41 INFO-unique list
+2021-09-08 17:16:41 INFO-counter for index and word as values
+2021-09-08 17:16:41 INFO-splitting word if vowels occured
+2021-09-08 17:16:41 INFO-vowels
+2021-09-08 17:16:41 INFO-capitalizing every 3rd letter of a word
+2021-09-08 17:16:41 INFO-[]
+2021-09-08 17:16:41 INFO-capitalizing every fifth word
+2021-09-08 17:16:41 INFO-[]
+2021-09-08 17:16:41 INFO-replacing the new line character with semi colon
+2021-09-08 17:16:41 INFO-unique file creation
+2021-09-08 17:16:41 INFO-file written in the output file successfully
+2021-09-08 17:20:32 INFO-file written in the output file successfully
+2021-09-08 17:20:32 INFO-most repeated word in the given input file
+2021-09-08 17:20:32 ERROR-exceptions occurred for most repeated: 
+2021-09-08 17:20:32 INFO-unique list
+2021-09-08 17:20:32 INFO-counter for index and word as values
+2021-09-08 17:20:32 INFO-splitting word if vowels occured
+2021-09-08 17:20:32 INFO-vowels
+2021-09-08 17:20:32 INFO-capitalizing every 3rd letter of a word
+2021-09-08 17:20:32 INFO-[]
+2021-09-08 17:20:32 INFO-capitalizing every fifth word
+2021-09-08 17:20:32 INFO-[]
+2021-09-08 17:20:32 INFO-replacing the new line character with semi colon
+2021-09-08 17:20:32 INFO-unique file creation
+2021-09-08 17:20:32 INFO-file written in the output file successfully
+2021-09-08 17:21:33 INFO-file written in the output file successfully
+2021-09-08 17:21:33 INFO-most repeated word in the given input file
+2021-09-08 17:21:33 ERROR-exceptions occurred for most repeated: 
+2021-09-08 17:21:33 INFO-unique list
+2021-09-08 17:21:33 INFO-counter for index and word as values
+2021-09-08 17:21:33 INFO-splitting word if vowels occured
+2021-09-08 17:21:33 INFO-vowels
+2021-09-08 17:21:33 INFO-capitalizing every 3rd letter of a word
+2021-09-08 17:21:33 INFO-[]
+2021-09-08 17:21:33 INFO-capitalizing every fifth word
+2021-09-08 17:21:33 INFO-[]
+2021-09-08 17:21:33 INFO-replacing the new line character with semi colon
+2021-09-08 17:21:33 INFO-unique file creation
+2021-09-08 17:21:33 INFO-file written in the output file successfully
+2021-09-08 17:24:40 INFO-file written in the output file successfully
+2021-09-08 17:24:40 INFO-most repeated word in the given input file
+2021-09-08 17:24:40 ERROR-exceptions occurred for most repeated: 
+2021-09-08 17:24:40 INFO-unique list
+2021-09-08 17:24:40 INFO-counter for index and word as values
+2021-09-08 17:24:40 INFO-splitting word if vowels occured
+2021-09-08 17:24:40 INFO-vowels
+2021-09-08 17:24:40 INFO-capitalizing every 3rd letter of a word
+2021-09-08 17:24:40 INFO-[]
+2021-09-08 17:24:40 INFO-capitalizing every fifth word
+2021-09-08 17:24:40 INFO-[]
+2021-09-08 17:24:40 INFO-replacing the new line character with semi colon
+2021-09-08 17:24:40 INFO-unique file creation
+2021-09-08 17:24:40 INFO-file written in the output file successfully
+2021-09-08 17:26:04 INFO-file written in the output file successfully
+2021-09-08 17:26:04 INFO-most repeated word in the given input file
+2021-09-08 17:26:04 ERROR-exceptions occurred for most repeated: 
+2021-09-08 17:26:04 INFO-unique list
+2021-09-08 17:26:04 INFO-counter for index and word as values
+2021-09-08 17:26:04 INFO-splitting word if vowels occured
+2021-09-08 17:26:04 INFO-vowels
+2021-09-08 17:26:04 INFO-capitalizing every 3rd letter of a word
+2021-09-08 17:26:04 INFO-[]
+2021-09-08 17:26:04 INFO-capitalizing every fifth word
+2021-09-08 17:26:04 INFO-[]
+2021-09-08 17:26:04 INFO-replacing the new line character with semi colon
+2021-09-08 17:26:04 INFO-unique file creation
+2021-09-08 17:26:04 INFO-file written in the output file successfully
+2021-09-08 17:28:02 INFO-file written in the output file successfully
+2021-09-08 17:28:02 INFO-most repeated word in the given input file
+2021-09-08 17:28:02 ERROR-exceptions occurred for most repeated: 
+2021-09-08 17:28:02 INFO-unique list
+2021-09-08 17:28:02 INFO-counter for index and word as values
+2021-09-08 17:28:02 INFO-splitting word if vowels occured
+2021-09-08 17:28:02 INFO-vowels
+2021-09-08 17:28:02 INFO-capitalizing every 3rd letter of a word
+2021-09-08 17:28:02 INFO-[]
+2021-09-08 17:28:02 INFO-capitalizing every fifth word
+2021-09-08 17:28:02 INFO-[]
+2021-09-08 17:28:02 INFO-replacing the new line character with semi colon
+2021-09-08 17:28:02 INFO-unique file creation
+2021-09-08 17:28:02 INFO-file written in the output file successfully
+2021-09-13 16:08:47 INFO-file written in the output file successfully
+2021-09-13 16:08:47 INFO-most repeated word in the given input file
+2021-09-13 16:08:47 ERROR-exceptions occurred for most repeated: 
+2021-09-13 16:08:47 INFO-unique list
+2021-09-13 16:08:47 INFO-counter for index and word as values
+2021-09-13 16:08:47 INFO-splitting word if vowels occured
+2021-09-13 16:08:47 INFO-vowels
+2021-09-13 16:08:47 INFO-capitalizing every 3rd letter of a word
+2021-09-13 16:08:47 INFO-[]
+2021-09-13 16:08:47 INFO-capitalizing every fifth word
+2021-09-13 16:08:47 INFO-[]
+2021-09-13 16:08:47 INFO-replacing the new line character with semi colon
+2021-09-13 16:08:47 INFO-unique file creation
+2021-09-13 16:08:47 INFO-file written in the output file successfully
+2021-09-14 12:02:33 INFO-file written in the output file successfully
+2021-09-14 12:02:33 INFO-most repeated word in the given input file
+2021-09-14 12:02:33 ERROR-exceptions occurred for most repeated: 
+2021-09-14 12:02:33 INFO-unique list
+2021-09-14 12:02:33 INFO-counter for index and word as values
+2021-09-14 12:02:33 INFO-splitting word if vowels occured
+2021-09-14 12:02:33 INFO-vowels
+2021-09-14 12:02:33 INFO-capitalizing every 3rd letter of a word
+2021-09-14 12:02:33 INFO-[]
+2021-09-14 12:02:33 INFO-capitalizing every fifth word
+2021-09-14 12:02:33 INFO-[]
+2021-09-14 12:02:33 INFO-replacing the new line character with semi colon
+2021-09-14 12:02:33 INFO-unique file creation
+2021-09-14 12:02:33 INFO-file written in the output file successfully
+2021-09-14 12:02:39 INFO-file written in the output file successfully
+2021-09-14 12:02:39 INFO-most repeated word in the given input file
+2021-09-14 12:02:39 ERROR-exceptions occurred for most repeated: 
+2021-09-14 12:02:39 INFO-unique list
+2021-09-14 12:02:39 INFO-counter for index and word as values
+2021-09-14 12:02:39 INFO-splitting word if vowels occured
+2021-09-14 12:02:39 INFO-vowels
+2021-09-14 12:02:39 INFO-capitalizing every 3rd letter of a word
+2021-09-14 12:02:39 INFO-[]
+2021-09-14 12:02:39 INFO-capitalizing every fifth word
+2021-09-14 12:02:39 INFO-[]
+2021-09-14 12:02:39 INFO-replacing the new line character with semi colon
+2021-09-14 12:02:39 INFO-unique file creation
+2021-09-14 12:02:39 INFO-file written in the output file successfully
